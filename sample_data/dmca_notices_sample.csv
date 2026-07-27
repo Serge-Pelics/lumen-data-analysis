@@ -1,0 +1,47 @@
+notice_id,date_received,reported_to_lumen,sender,sender_country,recipient,target_domain,role,notes
+82594328,2026-04-10,2026-04-10,[REDACTED],HU,Google LLC,example-review-site.com,original,template-like cluster
+82619841,2026-04-10,2026-04-10,[REDACTED],HU,Google LLC,example-review-site.com,original,template-like cluster
+82622990,2026-04-10,2026-04-10,[REDACTED],??,Google LLC,example-review-site.com,original,template-like cluster
+82650411,2026-04-10,2026-04-11,[REDACTED],??,Google LLC,example-review-site.com,original,template-like cluster
+82691064,2026-04-10,2026-04-11,[REDACTED],??,Google LLC,example-review-site.com,original,template-like cluster
+82746582,2026-04-10,2026-04-11,[REDACTED],??,Google LLC,example-review-site.com,original,template-like cluster
+83005895,2026-04-14,2026-04-15,Amina Begum,BD,Google LLC,example-review-site.com,original,rotating sender identity
+83036704,2026-04-14,2026-04-15,Rahim Ahmed,BD,Google LLC,example-review-site.com,original,rotating sender identity
+88011497,2026-06-11,2026-06-11,Olivia Miller,KW,Google LLC,example-review-site.com,original,burst day
+88014636,2026-06-11,2026-06-11,Jordan Miller,KW,Google LLC,example-review-site.com,original,burst day
+88015294,2026-06-11,2026-06-11,[REDACTED],KW,Google LLC,example-review-site.com,original,burst day
+88017975,2026-06-11,2026-06-11,[REDACTED],??,Google LLC,example-review-site.com,original,burst day
+88032572,2026-06-11,2026-06-11,[REDACTED],??,Google LLC,example-review-site.com,original,burst day
+88034021,2026-06-11,2026-06-11,[REDACTED],??,Google LLC,example-review-site.com,original,burst day
+88047566,2026-06-11,2026-06-12,[REDACTED],??,Google LLC,example-review-site.com,original,burst day
+88556233,2026-06-22,2026-06-24,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+88565064,2026-06-22,2026-06-24,[REDACTED],HU,Google LLC,example-review-site.com,original,major wave
+88569369,2026-06-22,2026-06-24,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+88571444,2026-06-22,2026-06-24,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+88571760,2026-06-22,2026-06-24,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+88590315,2026-06-22,2026-06-24,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+88609389,2026-06-22,2026-06-24,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+88649205,2026-06-22,2026-06-24,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+88653860,2026-06-22,2026-06-24,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+88698995,2026-06-22,2026-06-24,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+88721305,2026-06-22,2026-06-24,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+88730271,2026-06-22,2026-06-24,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+88736753,2026-06-22,2026-06-24,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+88752545,2026-06-22,2026-06-24,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+88762248,2026-06-22,2026-06-24,Scott Mitchell,MD,Google LLC,example-review-site.com,original,major wave
+88772140,2026-06-22,2026-06-24,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+88807525,2026-06-22,2026-06-26,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+88862943,2026-06-22,2026-06-26,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+88863190,2026-06-22,2026-06-26,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+88910693,2026-06-22,2026-06-26,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+88941474,2026-06-22,2026-06-27,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+88950406,2026-06-22,2026-06-27,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+88968938,2026-06-22,2026-06-27,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+88987740,2026-06-22,2026-06-27,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+89066888,2026-06-22,2026-06-27,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+89066984,2026-06-22,2026-06-27,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+89071977,2026-06-22,2026-06-27,[REDACTED],??,Google LLC,example-review-site.com,original,major wave
+89776677,2026-07-04,2026-07-04,Vladimir Ballesteros,MK,Google LLC,example-review-site.com,original,follow-up wave
+89895870,2026-07-05,2026-07-06,Melissa Lopez,HT,Google LLC,example-review-site.com,original,follow-up wave
+89987940,2026-07-06,2026-07-07,Michael Gruwell,KE,Google LLC,example-review-site.com,original,follow-up wave
+90188652,2026-07-09,2026-07-09,Linda Brown,TW,Google LLC,example-review-site.com,original,follow-up wave
