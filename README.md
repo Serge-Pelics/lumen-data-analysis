@@ -21,6 +21,7 @@ The long-term goal of this project is to help researchers, site operators, and j
 
 | Path | Purpose |
 |---|---|
+| `METHODOLOGY.md` | How each signal is defined, measured and validated, with thresholds fixed in advance |
 | `analyze_dmca.py` | Baseline Python script: load a CSV of notices, summarize counts, and generate simple charts |
 | `sample_data/dmca_notices_sample.csv` | Synthetic sample dataset for demos (not production Lumen exports) |
 | `requirements.txt` | Python dependencies |
@@ -59,21 +60,21 @@ notice_id,date_received,sender,sender_country,recipient,target_domain,role
 - [ ] Burst / template-similarity detectors for suspicious notice clusters
 - [ ] Domain monitoring alerts for newly published notices
 - [ ] Richer dashboards (interactive HTML) beyond static matplotlib charts
-- [ ] Documentation of methodology for false-positive / false-negative evaluation
+- [x] Documentation of methodology for false-positive / false-negative evaluation ([`METHODOLOGY.md`](METHODOLOGY.md))
 
 ## Ethics & responsible use
 
 Use this toolkit only for:
 
 - academic or independent research,
-- defending your own sites against abusive removals,
+- journalistic and policy-focused analysis,
 - public-interest transparency work.
 
-Do not use it to harass complainants, evade valid copyright enforcement, or re-publish private contact data.
+Findings are meant to be reported in aggregate. Do not use this toolkit to harass complainants, evade valid copyright enforcement, or re-publish private contact data. See [`METHODOLOGY.md`](METHODOLOGY.md) for the limits on what these measurements can and cannot establish.
 
 ## Author
 
-Maintained by [Serge-Pelics](https://github.com/Serge-Pelics) as part of ongoing SEO / search-integrity research.
+Maintained by [Serge-Pelics](https://github.com/Serge-Pelics) as independent research on search integrity and platform transparency.
 
 ## License
 
